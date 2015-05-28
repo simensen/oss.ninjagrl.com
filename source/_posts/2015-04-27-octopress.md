@@ -6,9 +6,9 @@ author: beau
 excerpt: "#ossart \"octopress\" (http://octopress.org/)"
 social_image: /assets/images/posts/2015-04-27-octopress.jpg
 product:
-    image: http://ninjagrl.com/assets/img/octopress.jpg
-    thumb: http://ninjagrl.com/assets/img/octopress-thumb.jpg
-    link: http://ninjagrl.com/shop/products/octopress/
+    image: /assets/img/octopress.jpg
+    thumb: /assets/img/octopress-thumb.jpg
+    link: https://ninjagrl.com/shop/products/octopress/
 ---
 
 Our fifth #ossart entry is dedicated to [Octopress](http://octopress.org/), a static blogging framework for hackers, based on [Jekyll](http://jekyllrb.com/) and created by [Brandon Mathis](https://twitter.com/imathis).

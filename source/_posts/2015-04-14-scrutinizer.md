@@ -6,9 +6,9 @@ author: beau
 excerpt: "#ossart \"scrutinizer\" (https://scrutinizer-ci.com/)"
 social_image: /assets/images/posts/2015-04-14-scrutinizer.jpg
 product:
-    image: http://ninjagrl.com/assets/img/scrutinizer-8x10.jpg
-    thumb: http://ninjagrl.com/assets/img/scrutinizer-8x10-thumb.jpg
-    link: http://ninjagrl.com/shop/products/scrutinizer/
+    image: /assets/img/scrutinizer-8x10.jpg
+    thumb: /assets/img/scrutinizer-8x10-thumb.jpg
+    link: https://ninjagrl.com/shop/products/scrutinizer/
 ---
 
 Our fourth #ossart entry is dedicated to [Scrutinizer](https://scrutinizer-ci.com), a continuous inspection platform. Though not strictly open source software itself, Scrutinizer is used by many open source projects to help measure and track code quality and find bugs!
