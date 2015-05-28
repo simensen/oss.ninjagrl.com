@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}/" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     {% block meta %}{% endblock %}
 
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="{{ site.url }}/assets/js/highlight/styles/github.css">
     <script src="{{ site.url }}/assets/js/modernizr.min.js"></script>
      <!--[if IE]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% block styles %}{% endblock %}
 </head>
@@ -59,7 +59,7 @@
             var twitterWidgets = document.createElement('script');
             twitterWidgets.type = 'text/javascript';
             twitterWidgets.async = true;
-            twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+            twitterWidgets.src = '//platform.twitter.com/widgets.js';
             document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
         })();
         (function() {
