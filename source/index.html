@@ -97,7 +97,7 @@ use:
 
                         {% if post.product %}
                             <div class="product-image">
-                                <a href="{{ post.url }}"><img style="box-shadow: .25em .25em .75em #636254;" src="{{ post.product.thumb }}"></a>
+                                <a href="{{ post.url }}"><img style="box-shadow: .25em .25em .75em #636254; max-width: 100%; height: auto;" src="{{ post.product.thumb }}"></a>
                                 <a class="shop" href="{{ post.product.link }}">Buy Now</a>
                             </div>
                         {% endif %}
