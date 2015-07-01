@@ -11,7 +11,7 @@ product:
     link: https://ninjagrl.com/artwork/pull-request
 ---
 
-"Pull requests" are a part of [Git's workflow](http://git-scm.com/docs/git-request-pull) in which a developer can request another developer "pull" their changes into their code. Someties known as a "PR," developers who use Git often talk about pull requests.
+"Pull requests" are a part of [Git's workflow](http://git-scm.com/docs/git-request-pull) in which a developer can request another developer "pull" their changes into their code. Sometimes known as a "PR," developers who use Git often talk about pull requests.
 
 The first person to guess the title was [Dave Marshall](https://twitter.com/davedevelopment/status/616336189189177344)!
 
